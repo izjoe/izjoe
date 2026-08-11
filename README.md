@@ -5,17 +5,4 @@ Information Systems student at the University of Information Technology (UIT), V
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bchaunguyen-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bchaunguyen/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:nbaochau215@gmail.com)
 
-
-## Skills
-
-**Business Analysis:** BPMN, UML, Requirements Elicitation
-
-**Data Analytics:** SQL, Excel, Power BI, Python
-
-**Enterprise Systems:** ERP Concepts, Process Modeling
-
-**Tools:** StarUML, Draw.io, Figma, Git/GitHub
-
----
-
 Feel free to check out my pinned repositories below for project details.
