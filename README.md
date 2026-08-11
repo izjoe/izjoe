@@ -7,12 +7,6 @@ Curious about how processes work, how data tells a story, and how the right syst
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bchaunguyen-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bchaunguyen/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:nbaochau215@gmail.com)
 
-## What I'm interested in
-
-- Business Analysis
-- Information Systems
-- Data Analytics
-- Enterprise Systems (ERP)
 
 ## Skills
 
@@ -23,12 +17,6 @@ Curious about how processes work, how data tells a story, and how the right syst
 **Enterprise Systems:** ERP Concepts, Process Modeling
 
 **Tools:** StarUML, Draw.io, Figma, Git/GitHub
-
-## Featured Projects
-
-- ERP Integration for Fashion Retail Business
-- AgriAssist – AI-powered Agricultural Assistant
-- Coffee Price Forecasting & Analytics
 
 ---
 
