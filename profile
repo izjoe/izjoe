@@ -4,5 +4,3 @@ Information Systems student at the University of Information Technology (UIT), V
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bchaunguyen-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bchaunguyen/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:nbaochau215@gmail.com)
-
-Feel free to check out my pinned repositories below for project details.
